@@ -10,6 +10,7 @@ import java.util.Scanner;
  * The purpose of this class is for you to interact with a functional Console Line menu, so that you can
  * see how your code works from the user's end. You can run this method and interact with the app through your
  * IDE's terminal.
+ * gitpod pls let me commit
  */
 public class GameMenu {
     public static void main(String[] args) {
